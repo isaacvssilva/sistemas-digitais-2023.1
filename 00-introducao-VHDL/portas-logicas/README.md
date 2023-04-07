@@ -1,5 +1,9 @@
 # Simulações usando o Vivado 2020.2
 
+## Simulação do Driver
+
+![](../img/driver.png)
+
 ## Simulação da porta OR
 
 ![](../img/porta_or.png)
